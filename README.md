@@ -6,45 +6,35 @@ Mental health care is often inaccessible due to stigma, cost, and availability. 
 
 ✨ Key Features
 Secure registration & login (JWT-based)
-
 Therapy session booking & video calls (Jitsi)
-
 Real-time chat with therapists (Socket.IO)
-
 AI-powered mood tracking & chatbot
-
 Journaling, community forum & calming resources
 
 
 🧰 Tech Stack
 Frontend: React.js, Tailwind CSS
-
 Backend: Node.js, Express.js
-
 Database: MongoDB Atlas
-
 Auth: JWT
-
 Real-Time: Socket.IO
-
 Video Call: Jitsi Meet
-
 AI/ML: Custom-trained chatbot
 
 🛠 Setup Instructions
 Backend
-bash
-Copy code
+
 cd backend
 npm install
-# Add .env with DB_URI, JWT_SECRET, etc.
-npm start
-Frontend
-bash
-Copy code
+npm node.js
+
+FRONTED
+
 cd frontend
 npm install
 npm start
+
+
 👥 Team
 •Barsha Kumari Mishra 
 • Tanishq Mittal 
